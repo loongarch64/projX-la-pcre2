@@ -44,7 +44,7 @@ GPL V3.0.
 
 ## 参考资源
 
-* [pcre2源码](https://github.com/PCRE2Project/pcre2.git)和[文档](https://github.com/PCRE2Project/pcre2.git)
+* [pcre2源码](https://github.com/PCRE2Project/pcre2.git)和[文档](https://pcre2project.github.io/pcre2/doc/html/index.html)
 * [LoongArch docs](https://github.com/loongson/LoongArch-Documentation)。LoongArch相关文档，包括架构手册，ABI, 3A5000 CPU和7A1000桥片手册等。
 
 ## 备注
